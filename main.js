@@ -1,6 +1,5 @@
 // Function for copying the phonenumber
 function copyPhone() {
-      
     /* Copy phonenumber into clipboard */
     navigator.clipboard.writeText
         ("06-43794292");
