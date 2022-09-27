@@ -118,6 +118,12 @@ h4{
     justify-content: space-around;
 }
 
+.main2{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
 .main img{
     border-radius: 20px;
 }
