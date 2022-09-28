@@ -49,15 +49,15 @@ nav ul li a{
     text-decoration: none;
     text-transform: capitalize;
     font-size: 18px;
-    transition: .4s;
+    transition: .1s;
 
 }
 
 nav ul li a:hover{
-    color: #ffce58;
+    font-size: 25px;
+    /* border-radius: 30px;
     background-color: #ff4763;
-    border-radius: 30px;
-    padding: 10px 15px;
+    padding: 10px 15px; */
 }
 
 .btn_cc{
